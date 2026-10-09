@@ -80,7 +80,9 @@ After deletion, copies may remain in our hosting provider's encrypted backups fo
 
 Delete your account in the app: Settings, Account, Delete account. The app shows exactly what will be removed before anything is deleted.
 
-If you are the only member of a school, the school is deleted with all of its teams, players, player photos, games, attendance, notes, expenses, receipt photos, and logos. If the school has other members, only your account is removed and the school stays available to them. The only owner of a school with other members must first make another member an owner.
+Deleting your account removes your login and personal records right away. School data is not deleted with an account: if the school has other members it stays available to them, and if you were its only member a request to delete the school is sent to Coach Hub for review. The only owner of a school with other members must first make another member an owner.
+
+Deleting a school: a school owner can request it in Settings, Danger zone. A Coach Hub administrator reviews every request, and only after approval are all of the school's teams, players, player photos, games, attendance, notes, expenses, receipt photos, and logos permanently deleted. The owner can cancel while the request is waiting for review.
 
 Deleting the account also erases all Coach Hub data on that device. Coaches using Coach Hub without an account can erase their data in Settings, Danger zone.
 
