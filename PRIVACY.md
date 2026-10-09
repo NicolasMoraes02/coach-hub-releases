@@ -1,6 +1,6 @@
 # Coach Hub Privacy Policy
 
-Effective date: October 8, 2026
+Effective date: October 9, 2026
 
 ## Who we are
 
@@ -24,7 +24,7 @@ Team activity: practice and game schedules and locations, attendance with option
 
 Expenses: expense reports and receipt photos. The vendor name and total are read from the receipt on the device itself; receipt photos are uploaded to private storage.
 
-Player photos are stored only on the device where they were added and are not uploaded.
+Player photos, when a coach adds them, are reduced to small square images and stored with the school's data so every device of the team can show them.
 
 Technical information: when the app runs into a problem it records an error report with the error message, the screen, app version, operating system, device model, time, and the account and team involved. The app also keeps a random device identifier to synchronize changes between devices.
 
@@ -46,7 +46,7 @@ On the device: team data is stored in encrypted storage on the phone or tablet s
 
 In the cloud: when a coach signs in, team data is stored with our hosting provider, Supabase, in the United States (Oregon). Information travels over encrypted connections. Database rules limit each school's data to that school's members.
 
-Receipt photos are kept in private storage and opened through links that expire after one hour. School and team logos are stored so that anyone with the logo link can view them, because they appear on shared reports and images.
+Receipt photos and player photos are kept in private storage and opened through links that expire after a short time. Each device keeps a copy of the player photos so the app works offline, and that copy is erased when the coach signs out. School and team logos are stored so that anyone with the logo link can view them, because they appear on shared reports and images.
 
 ## Services that receive information
 
@@ -80,7 +80,7 @@ After deletion, copies may remain in our hosting provider's encrypted backups fo
 
 Delete your account in the app: Settings, Account, Delete account. The app shows exactly what will be removed before anything is deleted.
 
-If you are the only member of a school, the school is deleted with all of its teams, players, games, attendance, notes, expenses, receipt photos, and logos. If the school has other members, only your account is removed and the school stays available to them. The only owner of a school with other members must first make another member an owner.
+If you are the only member of a school, the school is deleted with all of its teams, players, player photos, games, attendance, notes, expenses, receipt photos, and logos. If the school has other members, only your account is removed and the school stays available to them. The only owner of a school with other members must first make another member an owner.
 
 Deleting the account also erases all Coach Hub data on that device. Coaches using Coach Hub without an account can erase their data in Settings, Danger zone.
 
