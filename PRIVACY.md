@@ -56,7 +56,9 @@ When a coach asks for game weather, the stadium address the coach typed is sent 
 
 When the app checks for or downloads an update, it contacts GitHub, which receives standard connection information such as the device's IP address.
 
-Receipt text recognition uses Google ML Kit running on the device; receipt images are not sent to Google for recognition.
+Text recognition for receipts and for imported schedules (PDF pages and photos) uses Google ML Kit running on the device; these images are not sent to Google for recognition.
+
+Schedule files a coach imports (PDF, spreadsheet, document, calendar file, photo, or pasted text) are read on the device and are not uploaded. Only the games, practices, and events the coach chooses to add are saved with the team data.
 
 When a coach exports or shares a PDF, CSV file, roster, or result image, it goes only to the apps and people the coach chooses.
 
