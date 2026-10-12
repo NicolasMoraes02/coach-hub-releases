@@ -18,7 +18,7 @@ Coach Hub is not directed to children under 13 and should not be used to record 
 
 Account information: email address, name, school and team names, role (owner, admin, coach, or viewer), and school logos and colors. Passwords are handled by our authentication provider and are never visible to Coach Hub.
 
-Information coaches enter about players: name, jersey number, position, grade level, team, captain status, availability, and injury status with an optional expected return date and note.
+Information coaches enter about players: name, jersey number, optional school student ID number, position, grade level, team, captain status, availability, and injury status with an optional expected return date and note.
 
 Team activity: practice and game schedules and locations, attendance with optional notes or reasons, game lineups, goals, assists, cards, substitutions, minutes played, game notes, and private coach notes.
 
@@ -61,6 +61,8 @@ Text recognition for receipts and for imported schedules (PDF pages and photos) 
 Schedule files a coach imports (PDF, spreadsheet, document, calendar file, photo, or pasted text) are read on the device and are not uploaded. Only the games, practices, and events the coach chooses to add are saved with the team data.
 
 When a coach exports or shares a PDF, CSV file, roster, or result image, it goes only to the apps and people the coach chooses.
+
+The daily absence report (student names, student ID numbers, team, and absence reason) is sent from the coach's own email app to the school office address the coach enters. Coach Hub does not send it through its own servers.
 
 ## Who can see a school's information
 
