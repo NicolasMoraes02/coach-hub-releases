@@ -20,6 +20,8 @@ Account information: email address, name, school and team names, role (owner, ad
 
 Information coaches enter about players: name, jersey number, optional school student ID number, position, grade level, team, captain status, availability, and injury status with an optional expected return date and note.
 
+Parent and guardian contacts that coaches enter or import: name, relationship, phone number, and email address. They are used only so the coaching staff can reach a player's family; Coach Hub does not send them messages.
+
 Team activity: practice and game schedules and locations, attendance with optional notes or reasons, game lineups, goals, assists, cards, substitutions, minutes played, game notes, and private coach notes.
 
 Expenses: expense reports and receipt photos. The vendor name and total are read from the receipt on the device itself; receipt photos are uploaded to private storage.
